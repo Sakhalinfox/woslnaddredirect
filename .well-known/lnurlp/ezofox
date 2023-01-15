@@ -1,0 +1,8 @@
+{
+  "callback": "https://livingroomofsatoshi.com/api/v1/lnurl/payreq/2b7e458c-6db0-41b2-a729-c5f4ed1b4ffd",
+  "maxSendable": 100000000000,
+  "minSendable": 1000,
+  "metadata": "[[\"text/plain\",\"Pay to Wallet of Satoshi user: scarredsofa23\"],[\"text/identifier\",\"scarredsofa23@walletofsatoshi.com\"]]",
+  "commentAllowed": 32,
+  "tag": "payRequest"
+}
